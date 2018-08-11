@@ -1,2 +1,25 @@
+<<<<<<< HEAD
 .idea/
 *.tmp
+=======
+*.tar.bz2
+*.o
+abuild
+abuild-fetch
+abuild-gzsplit
+abuild-keygen
+abuild-rmtemp
+abuild-sign
+abuild-sudo
+abuild-tar
+abump
+ap
+apkbuild-cpan
+apkbuild-gem-resolver
+apkgrel
+buildlab
+checkapk
+devbuild
+functions.sh
+newapkbuild
+>>>>>>> 1820691b9483e311ecc11cf9576a7ed46337f10b
